@@ -9,7 +9,7 @@ He desarrollado un tablero de control usando la herramienta **Power BI** para an
 El análisis reveló que el colegio Trilce Los Olivos es el que más estudiantes aporta a la UNI, Ingeniería Civil destaca como la especialidad con más ingresantes. Además, proyectamos que para el próximo ciclo 2024-2 ingresarán aproximadamente 1,293 estudiantes. La edad promedio de los ingresantes es 20 años, con una nota promedio de 12.70.
 
 ### Nombre y enlace de la Data usada
-Postulantes al Concurso de Admisión de la Universidad Nacional de Ingeniería - [UNI]
+Postulantes al Concurso de Admisión de la Universidad Nacional de Ingeniería - [UNI] <br>
 https://www.datosabiertos.gob.pe/dataset/postulantes-al-concurso-de-admisi%C3%B3n-de-la-universidad-nacional-de-ingenier%C3%ADa-uni
 
 ## Propuesta de solución
@@ -26,7 +26,7 @@ Es escalable y aplicable tanto a nivel local como a otras instituciones como uni
 La tecnología de IA necesaria para el desarrollo del sistema es accesible y ampliamente utilizada. Aunque los costos iniciales para el desarrollo e implementación pueden ser significativos, la solución es sustentable a largo plazo debido a la automatización y escalabilidad.
 
 ### Beneficios que brindará a la comunidad
-Ayuda a que el perfil del nuevo ingresante coincida mejor con el perfil ideal para las carreras, reduciendo problemas de insatisfacción profesional, el riesgo académico, bajas notas y el abandono.
+Ayuda a que el perfil del nuevo ingresante coincida mejor con el perfil ideal para las carreras, reduciendo problemas de insatisfacción profesional, el riesgo académico, bajas notas y el abandono.<br>
 Contribuye a una mejor calidad educativa al optimizar la adecuación entre estudiantes y carreras, beneficiando tanto a los estudiantes como a la universidad en términos de éxito académico.
 
 ## Autor
